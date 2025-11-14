@@ -4,4 +4,4 @@ numpy
 plotly
 yfinance
 scipy
-pandas_datareader
+
