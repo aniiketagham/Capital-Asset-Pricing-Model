@@ -1,6 +1,6 @@
 #importing libraries
 import pandas as pd
-#import pandas_datareader.data as web
+import pandas_datareader.data as web
 import datetime
 import streamlit as st
 import yfinance as yf
